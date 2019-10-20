@@ -1,3 +1,3 @@
 ## ShopclawsCloudFunction
 
-A simple Firebase Realtime database trigger
+A Simple Firebase Realtime database trigger.
